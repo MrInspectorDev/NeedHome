@@ -14,7 +14,6 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.plugin.PluginDescriptionFile;
 
-@SuppressWarnings("unused")
 public class NeedHome extends JavaPlugin
   implements Listener
 {

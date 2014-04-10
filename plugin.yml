@@ -1,0 +1,21 @@
+name: NeedHome
+main: me.mrinspector.plugin.NeedHome
+version: 1.0
+author: MrInspector
+commands:
+    ineedtown:
+     permission: needhome.town
+    needhome:
+     permission: needhome.command
+    ineedfaction:
+     permission: needhome.faction
+    ineedclan:
+     permission: needhome.clan
+    ineedteam:
+     permission: needhome.team
+    ineedhome:
+     permission: needhome.home
+    ineedmcmmoparty:
+     permission: needhome.party
+    ineedtmem:
+     permission: needhome.tmem
